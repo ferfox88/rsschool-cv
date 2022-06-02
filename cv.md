@@ -2,7 +2,7 @@
 
 ## Kirillova Elena
 
-![Profile image](/img/photo1.JPG)
+![Profile image](./img/photo1.jpg)
 
 # Contacts
     - ferfox@yandex.ru
